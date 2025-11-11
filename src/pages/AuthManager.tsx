@@ -76,7 +76,7 @@ export default function AuthManager() {
     } else {
       toast({
         title: "Connecté !",
-        description: "Bienvenue sur TaskFlow.",
+        description: "Bienvenue sur DevTracker.",
       });
     }
 

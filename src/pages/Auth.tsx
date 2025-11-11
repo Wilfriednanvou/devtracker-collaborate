@@ -62,7 +62,7 @@ export default function Auth() {
     } else {
       toast({
         title: "Connecté !",
-        description: "Bienvenue sur TaskFlow.",
+        description: "Bienvenue sur DevTracker.",
       });
     }
 
@@ -78,7 +78,7 @@ export default function Auth() {
               <Briefcase className="h-8 w-8" />
             </div>
           </div>
-          <h1 className="text-4xl font-bold tracking-tight">TaskFlow</h1>
+          <h1 className="text-4xl font-bold tracking-tight">DevTracker</h1>
           <p className="text-muted-foreground">
             Gérez vos projets collaboratifs en toute simplicité
           </p>
